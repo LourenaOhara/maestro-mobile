@@ -1,1 +1,1 @@
-# detox-mobile
+# maestro-mobile
